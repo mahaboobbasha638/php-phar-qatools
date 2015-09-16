@@ -1,0 +1,12 @@
+cp pdepend.phar /usr/local/bin/pdepend; chmod 755 /usr/local/bin/pdepend
+cp php-cs-fixer.phar /usr/local/bin/php-cs-fixer; chmod 755 /usr/local/bin/php-cs-fixer
+cp phpDocumentor.phar /usr/local/bin/phpDocumentor; chmod 755 /usr/local/bin/phpDocumentor
+cp phpcb.phar /usr/local/bin/phpcb; chmod 755 /usr/local/bin/phpcb
+cp phpcbf.phar /usr/local/bin/phpcbf; chmod 755 /usr/local/bin/phpcbf
+cp phpcpd.phar /usr/local/bin/phpcpd; chmod 755 /usr/local/bin/phpcpd
+cp phpcs.phar /usr/local/bin/phpcs; chmod 755 /usr/local/bin/phpcs
+cp phpdcd.phar /usr/local/bin/phpdcd; chmod 755 /usr/local/bin/phpdcd
+cp phpdox.phar /usr/local/bin/phpdox; chmod 755 /usr/local/bin/phpdox
+cp phploc.phar /usr/local/bin/phploc; chmod 755 /usr/local/bin/phploc
+cp phpmd.phar /usr/local/bin/phpmd; chmod 755 /usr/local/bin/phpmd
+cp phpunit.phar /usr/local/bin/phpunit; chmod 755 /usr/local/bin/phpunit
